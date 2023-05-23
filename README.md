@@ -1,35 +1,5 @@
-# Burger Queen API Mock
+# API - Heaven Burger :hamburger:
 
-Usando las librerías [json-server](https://github.com/typicode/json-server) 
-y [json-server-auth](https://github.com/jeremyben/json-server-auth) 
-se crea un mock para 
-[Burger Queen API](https://app.swaggerhub.com/apis/ssinuco/BurgerQueenAPI/2.0.0)
+API utilizada para o desenvolvimento do quinto projeto [(confira aqui)](https://github.com/ajuliamm/heaven-burger) para o Bootcamp de Desenvolvimento Web da [@Laboratória](https://www.laboratoria.la/br). O objetivo consiste em uma interface voltada para o gerenciamento de uma hamburgueria. Nesta aplicação, usou-se a integração com essa API e o framework React.
 
-## Ejecución
-
-1. Clona el repositorio
-2. Instala las dependencias
-    ```bash
-    npm install
-    ```
-3. Ejecuta el mock
-    ```bash
-    npm start
-    ```
-4. Ahora puedes acceder a los endpoints del API descritos en la 
-[documentación](https://app.swaggerhub.com/apis/ssinuco/BurgerQueenAPI/2.0.0) 
-usando como URL base [http://localhost:8080/](http://localhost:8080/).
-
-    Tal como indica la documentación, los endpoints están protegidos 
-    por token de autenticación.
-
-    En el archivo [requests.http](./requests.http) encuentras 
-    algunas peticiones de prueba que puedes ejecutar directamente 
-    en VSCode usando la extensión 
-    [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client).
-
-## Información
-
-El mock _out-of-the-box_ provee información de 2 usuarias administradoras _anita.borg@systers.xyz_ y _grace.hopper@systers.xyz_. La contraseña de ambos usuarios es _123456_
-
-También provee información de 2 órdenes y 2 productos.
+***
