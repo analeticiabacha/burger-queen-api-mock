@@ -190,7 +190,7 @@
     {
       "id": 18,
       "name": "Suco Natural",
-      "price": 6.00,
+      "price": 6.50,
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
       "type": "drinks"
     },
